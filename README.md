@@ -1,8 +1,7 @@
 # lucidmoon GitHub Stats
 
-![Your Name's GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
+[![lucidmoon's github stats](https://github-readme-stats.vercel.app/api?username=lucidmoon&count_private=true&theme=radical&hide_rank=false)]
+(https://github.com/lucidmoon/github-readme-stats)
 
 <!--
 ## Hi there 👋
