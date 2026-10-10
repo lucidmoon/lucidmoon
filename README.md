@@ -1,8 +1,6 @@
 # lucidmoon GitHub Stats
 
-[![lucidmoon's github stats](https://github-readme-stats.vercel.app/api?username=lucidmoon&count_private=true&theme=radical&hide_rank=false)]
-(https://github.com/lucidmoon/github-readme-stats)
-
+![lucidmoon's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucidmoon&commits_year=2026)
 <!--
 ## Hi there 👋
 **lucidmoon/lucidmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
